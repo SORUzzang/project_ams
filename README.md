@@ -11,7 +11,7 @@
 ### 계좌예금
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/a037af43-0ed3-4127-a615-f4ff50655672)
 <br>-추가된 금액을 한번 확인차 보여주며
-<br>-
+<br>
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/4f339504-1223-49b2-9ec4-22a6328e7d02)
 <br>-이 뒤에 목록을 확인하면 추가된 금액으로 변경되어있는 모습을 알 수 있다.
 
