@@ -17,5 +17,6 @@
 ### 계좌출금
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/f0535207-8c11-4236-aae7-6a58111646d4)
 <br>-예금과 같이 변경되어있는 모습이며
+<br>
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/94c005db-ac84-4273-b2fd-5507607720f2)
 <br>-이렇게 존재하지 않는 계좌번호나 계좌에 잔액이 출금할려는 금액보다 없을경우에는 이렇게 출력됩니다.
