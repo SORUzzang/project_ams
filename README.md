@@ -6,7 +6,7 @@
 
 ### 계좌조회
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/5ac5d502-541b-4264-80f4-7016dbca266e)
-<기존에 있던 더미데이터에 추가되어 출력되는 모습>
+<br>기존에 있던 더미데이터에 추가되어 출력되는 모습
 
 ### 계좌예금
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/a037af43-0ed3-4127-a615-f4ff50655672)
