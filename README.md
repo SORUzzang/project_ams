@@ -30,7 +30,7 @@
 
 ### 계좌삭제
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/8ea6c5c6-1b71-4cfc-8807-ce2fa447ee5b)
--<br> 계좌를 삭제했을 때 계좌목록에서 삭제한 계좌가 없어진 걸 확인 할 수 있습니다.
+<br>-계좌를 삭제했을 때 계좌목록에서 삭제한 계좌가 없어진 걸 확인 할 수 있습니다.
 
 ### 프로그램 종료
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/be99a2c2-b285-4fd0-969b-7586cee91b91)
