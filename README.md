@@ -15,8 +15,4 @@
 |![myteam](https://github.com/SORUzzang/project_ams/assets/160811627/a17d4860-2560-4973-9cfa-2ff7b9b918e7)|![matchView](https://github.com/SORUzzang/project_ams/assets/160811627/8ea6c5c6-1b71-4cfc-8807-ce2fa447ee5b)|
 
 
-|프로그램종료|
-|------|
-|![create](https://github.com/Gerrard0621/Project-CHALLAE/assets/165990790/f89950d0-49f0-4367-a568-f24da90bf683)|
-
 
