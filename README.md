@@ -1,5 +1,9 @@
+<div align="center">
+
 # project_ams [계좌관리 시스템]
 ![image](https://github.com/SORUzzang/project_ams/assets/160811627/a994c67f-7a51-4515-9a43-658353a6a6c4)
+  
+</div>
 
 
 |계좌생성|계좌조회|
